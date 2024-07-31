@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    font-family: sans-serif;
-    font-style:italic; color:burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal; color:black ;
     font-size: 24px;
     margin: 0;
     padding: 0;
@@ -10,13 +10,15 @@ body{
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
+    text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
 
 }
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
+    font: bold;
+    text-align: center;
 
 }
